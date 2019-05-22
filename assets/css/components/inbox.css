@@ -1,0 +1,83 @@
+.inbox {
+
+    width: 81%;
+    height: 1000px;
+    background-color: #d4d4ce;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+li {
+    float: left;
+    margin-top: 12px;
+}
+
+.header-inbox {
+    border-bottom-color: #8d8a85;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    width: 100%;
+    height: 47px;
+    background-color: #ffffff;
+}
+
+.icon-inbox-left {
+    float: left;
+    align-items: center;
+    font-size: 12px;
+    width: 100px;
+    height: 46px;
+    background-color: transparent;
+}
+
+.icon-inbox-right {
+    float: right;
+    align-items: center;
+    align-content: center;
+    font-size: 12px;
+    width: 180px;
+    height: 46px;
+    background-color: transparent;
+}
+
+.inbox-quantity {
+    margin-top: 12px;
+    float: left;
+    align-items: center;
+    width: 100px;
+    height: 46px;
+    background-color: transparent;
+}
+
+.nav-inbox {
+    float: left;
+    margin-top: 1px;
+    border-bottom-color: #8d8a85;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    width: 100%;
+    height: 47px;
+    background-color: #ffffff;
+}
+
+
+
+.emails {
+    float: right;
+    margin-top: 150px;
+    border-bottom-color: #8d8a85;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    width: 100%;
+    height: 47px;
+    background-color: #be1616;
+}
+
+td {
+    border-bottom-color: #8d8a85;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
